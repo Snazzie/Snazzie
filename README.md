@@ -4,4 +4,4 @@ I’m looking for collaborators to join, maintain and expand Dark Theme Hub's th
 
 You can HMU via [twitter](https://twitter.com/ItsSnazzie) or Discord (COOP#0812)
 
-<img src="https://i.gyazo.com/0c6f2535de2edb76cfade91a2171ef2b.png"/>
+<img src="https://i.gyazo.com/bc198f5b12f5e995c288a1aa3521e040.png"/>
