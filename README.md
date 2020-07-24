@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m looking for collaborators to join Dark Theme Hub's themes to help maintain and expand the theme collection.
+I’m looking for collaborators to join Dark Theme Hub to help maintain and expand the theme collection.
 
 You can HMU via [twitter](https://twitter.com/ItsSnazzie) or Discord (COOP#0812)
 
