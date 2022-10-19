@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 #### My Workstation 
-CPU: Ryzen 9 7950x
-RAM: 64GB Corsair Vengeance 6000mhz cl36
-GPU: RTX 3080Ti FE
-STORAGE: A LOT OF NVME
+* CPU: Ryzen 9 7950x
+* RAM: 64GB Corsair Vengeance 6000mhz cl36
+* GPU: RTX 3080Ti FE
+* STORAGE: A LOT OF NVME
+
 
 I’m looking for collaborators for [Vital Utilities](https://github.com/Vital-Utilities)
 
