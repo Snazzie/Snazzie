@@ -2,7 +2,7 @@
 
 #### My Workstation 
 * CPU: Ryzen 9 7950x
-* RAM: 64GB Corsair Vengeance 6000mhz cl36
+* RAM: 4x16GB Corsair Vengeance 6000mhz cl36
 * GPU: RTX 3080Ti FE
 * STORAGE: A LOT OF NVME
 
