@@ -18,3 +18,4 @@ You can HMU via [Twitter](https://twitter.com/ItsSnazzie) or through the appropr
 
 
 ![image](https://user-images.githubusercontent.com/19627023/114002088-773b9380-9854-11eb-9082-b5020ca50602.png)
+<a href="https://app.daily.dev/snazzie"><img src="https://api.daily.dev/devcards/43ce92b3d9c54cafb45c2b28c6d4e16c.png?r=p7d" width="400" alt="Aaron Cooper's Dev Card"/></a>
