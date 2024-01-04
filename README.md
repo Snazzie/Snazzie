@@ -12,7 +12,7 @@
 
 I’m looking for collaborators for [Vital Utilities](https://github.com/Vital-Utilities)
 
-You can HMU via [Twitter](https://twitter.com/ItsSnazzie) or through the appropriate discord server or dm (COOP#0812) or snazzie@snazzie.space
+You can HMU via my linkedIn, email or through the appropriate discord server or dm (COOP#0812)
 
 
 
