@@ -14,8 +14,4 @@ I’m looking for collaborators for [Vital Utilities](https://github.com/Vital-U
 
 You can HMU via my linkedIn, email or through the appropriate discord server or dm (COOP#0812)
 
-
-
-
-![image](https://user-images.githubusercontent.com/19627023/114002088-773b9380-9854-11eb-9082-b5020ca50602.png)
 <a href="https://app.daily.dev/snazzie"><img src="https://api.daily.dev/devcards/43ce92b3d9c54cafb45c2b28c6d4e16c.png?r=p7d" width="400" alt="Aaron Cooper's Dev Card"/></a>
