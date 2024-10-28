@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning: **How to build and run a startup**
 - 💬 Ask me about: **My startup cloudcat.dev**
 - ⚡ Fun fact: **Im building the best cloud monitoring solution for everyone. **
-- 📝 Blog: **<a href="cloudcat.dev/blogs" target="_blank">cloudcat.dev/blogs</a>**
+- 📝 Blog: **<a href="https://cloudcat.dev/blogs" target="_blank">cloudcat.dev/blogs</a>**
 
 
  **<h3 align="left">Skills</h3>**
