@@ -18,7 +18,7 @@
 
 - 💼 I'm currently working on: **My startup cloudcat.dev**
 - 🌱 I'm currently learning: **How to build and run a startup**
-- 💬 Ask me about: **My startup cloudcat.dev**
+- 💬 Ask me about: **My startup  **<a href="https://cloudcat.dev" target="_blank">cloudcat.dev</a>****
 - ⚡ Fun fact: **Im building the best cloud monitoring solution for everyone. **
 - 📝 Blog: **<a href="https://cloudcat.dev/blogs" target="_blank">cloudcat.dev/blogs</a>**
 
