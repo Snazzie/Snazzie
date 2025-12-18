@@ -16,9 +16,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **My startup cloudcat.dev**
+- 💼 I'm currently working on: **My startup cloudcat.dev and lunarportfolio**
 - 🌱 I'm currently learning: **How to build and run a startup**
-- 💬 Ask me about: **My startup  **<a href="https://cloudcat.dev" target="_blank">cloudcat.dev</a>****
+- 💬 Ask me about: **My startup projects  **<a href="https://cloudcat.dev" target="_blank">cloudcat.dev</a>** **<a href="https://lunarportfolio.com" target="_blank">lunarportfolio</a>****
+- 
 - ⚡ Fun fact: **Im building the best cloud monitoring solution for everyone. **
 - 📝 Blog: **<a href="https://cloudcat.dev/blogs" target="_blank">cloudcat.dev/blogs</a>**
 
