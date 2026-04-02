@@ -20,7 +20,6 @@
 - 🌱 I'm currently learning: **How to build and run a startup**
 - 💬 Ask me about: **My startup projects  **<a href="https://cloudcat.dev" target="_blank">cloudcat.dev</a>** **<a href="https://lunarportfolio.com" target="_blank">lunarportfolio</a>****
 - ⚡ Fun fact: **All my projects are based around data aggregation and visualisation lmao**
-- 📝 Blog: **<a href="https://cloudcat.dev/blogs" target="_blank">cloudcat.dev/blogs</a>**
 
  **<h3 align="left">GitHub Stats</h3>**
 
