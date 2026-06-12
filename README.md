@@ -1,36 +1,66 @@
 ![I am Snazzie](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Snazzie&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">Hey, I'm Snazzie 👋</h1>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        I am Snazzie
-      </h1>
-    </summary>
-  </ul>
-</div>
+<p align="center">
+  Software engineer building startups around <b>data aggregation & visualisation</b>.
+</p>
 
-<p align="center"><a href="https://github.com/Snazzie" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/cooper-a-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center">
+  <a href="https://cloudcat.dev" target="_blank"><img src="https://img.shields.io/badge/🐱_cloudcat.dev-1a1b27?style=for-the-badge" height="28"></a>
+  <a href="https://lunarportfolio.com" target="_blank"><img src="https://img.shields.io/badge/🌙_lunarportfolio-1a1b27?style=for-the-badge" height="28"></a>
+  <a href="https://www.linkedin.com/in/cooper-a-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+</p>
 
-**<h3 align="left">Rapid Fire</h3>**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snazzie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 💼 I'm currently working on: **My startup cloudcat.dev and lunarportfolio**
-- 🌱 I'm currently learning: **How to build and run a startup**
-- 💬 Ask me about: **My startup projects  **<a href="https://cloudcat.dev" target="_blank">cloudcat.dev</a>** **<a href="https://lunarportfolio.com" target="_blank">lunarportfolio</a>****
-- ⚡ Fun fact: **All my projects are based around data aggregation and visualisation lmao**
+---
 
- **<h3 align="left">GitHub Stats</h3>**
+### 🚀 What I'm up to
+
+- 💼 Building my startups — **[cloudcat.dev](https://cloudcat.dev)** and **[lunarportfolio](https://lunarportfolio.com)**
+- 🌱 Learning how to build and run a startup, one mistake at a time
+- 💬 Ask me about data aggregation, visualisation, or shipping side projects
+- ⚡ Fun fact: literally **all** my projects end up being data aggregation + visualisation. Can't escape it.
+
+### 🛠️ Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="24" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24" />
+</p>
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snazzie&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Snazzie&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
+### 🖥️ My Gear
 
-
-
-|  |  |
-|---------|-------|
-| <br>#### My Laptop <br> m5 macbook pro 32gb mem <br><br>#### My Workstation<br>* CPU: Ryzen 9 7950x<br>* RAM: 4x16GB Corsair Vengeance 6000mhz cl36<br>* GPU: RTX 3080Ti FE<br><br>#### My Server Box<br>* CPU: Ryzen 9 3900x<br>* RAM: 4x16GB Corsair Vengeance 3200mhz cl16<br>* GPU: Intel Arc A380 | <a href="https://app.daily.dev/snazzie"><img src="devcard.png" width="400" alt="Aaron Cooper's Dev Card"/></a> |
+<table>
+  <tr>
+    <td valign="top">
+      <b>💻 Laptop</b><br>
+      M5 MacBook Pro · 32GB<br><br>
+      <b>🖥️ Workstation</b><br>
+      • CPU: Ryzen 9 7950X<br>
+      • RAM: 4×16GB Corsair Vengeance 6000MHz CL36<br>
+      • GPU: RTX 3080 Ti FE<br><br>
+      <b>📦 Server Box</b><br>
+      • CPU: Ryzen 9 3900X<br>
+      • RAM: 4×16GB Corsair Vengeance 3200MHz CL16<br>
+      • GPU: Intel Arc A380
+    </td>
+    <td valign="top">
+      <a href="https://app.daily.dev/snazzie"><img src="devcard.png" width="400" alt="Aaron Cooper's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
