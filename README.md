@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://cloudcat.dev" target="_blank"><img src="https://img.shields.io/badge/🐱_cloudcat.dev-1a1b27?style=for-the-badge" height="28"></a>
   <a href="https://lunarportfolio.com" target="_blank"><img src="https://img.shields.io/badge/🌙_lunarportfolio-1a1b27?style=for-the-badge" height="28"></a>
+  <a href="https://snazzie.space" target="_blank"><img src="https://img.shields.io/badge/✨_snazzie.space-1a1b27?style=for-the-badge" height="28"></a>
   <a href="https://www.linkedin.com/in/cooper-a-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
 </p>
 
