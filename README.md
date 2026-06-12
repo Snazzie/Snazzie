@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Snazzie 👋</h1>
 
 <p align="center">
-  Software engineer building startups around <b>data aggregation & visualisation</b>.
+  <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=480&lines=Software+engineer+%26+startup+builder;Building+cloudcat.dev+%F0%9F%90%B1;Building+lunarportfolio+%F0%9F%8C%99;Data+aggregation+%2B+visualisation%2C+always" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24" />
 </p>
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -65,3 +70,11 @@
     </td>
   </tr>
 </table>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snazzie/Snazzie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snazzie/Snazzie/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Snazzie/Snazzie/output/github-contribution-grid-snake.svg">
+</picture>
