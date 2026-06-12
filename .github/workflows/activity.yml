@@ -14,11 +14,53 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: update activity section
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 5
-          FILTER_EVENTS: "PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,ForkEvent,CreateEvent"
+      - name: build activity list
+        run: |
+          curl -s "https://api.github.com/users/${{ github.repository_owner }}/events/public?per_page=100" \
+          | jq -r '
+              .[]
+              | if .type == "PushEvent" then
+                  "- 🔨 Pushed \(.payload.size) commit(s) to [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "CreateEvent" and .payload.ref_type == "repository" then
+                  "- 🎉 Created new repository [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "WatchEvent" then
+                  "- ⭐ Starred [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "PullRequestEvent" and .payload.action == "opened" then
+                  "- 💪 Opened PR [#\(.payload.pull_request.number)](\(.payload.pull_request.html_url)) in [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "IssuesEvent" and .payload.action == "opened" then
+                  "- ❗ Opened issue [#\(.payload.issue.number)](\(.payload.issue.html_url)) in [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "ReleaseEvent" and .payload.action == "published" then
+                  "- 🚀 Released [\(.payload.release.tag_name)](\(.payload.release.html_url)) in [\(.repo.name)](https://github.com/\(.repo.name))"
+                elif .type == "ForkEvent" then
+                  "- 🍴 Forked [\(.repo.name)](https://github.com/\(.repo.name))"
+                else empty end
+            ' \
+          | awk '!seen[$0]++' \
+          | head -5 > activity.md
+          cat activity.md
+
+      - name: inject into readme
+        run: |
+          awk '
+            /<!--START_SECTION:activity-->/ {
+              print
+              while ((getline line < "activity.md") > 0) print line
+              skip = 1
+              next
+            }
+            /<!--END_SECTION:activity-->/ { skip = 0 }
+            !skip
+          ' README.md > README.tmp && mv README.tmp README.md
+          rm activity.md
+
+      - name: commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update recent activity"
+            git push
+          else
+            echo "No changes to commit"
+          fi

@@ -1,14 +1,14 @@
 ![I am Snazzie](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hey, I'm Snazzie 👋</h1>
+<p align="center">
+  <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&center=true&vCenter=true&width=480&height=60&lines=Hey%2C+I'm+Snazzie+%F0%9F%91%8B;Hey%2C+I'm+Aaron+%F0%9F%91%8B" alt="Hey, I'm Snazzie / Aaron" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=480&lines=Software+engineer+%26+startup+builder;Building+cloudcat.dev+%F0%9F%90%B1;Building+lunarportfolio+%F0%9F%8C%99;Data+aggregation+%2B+visualisation%2C+always" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
-  <a href="https://cloudcat.dev" target="_blank"><img src="https://img.shields.io/badge/🐱_cloudcat.dev-1a1b27?style=for-the-badge" height="28"></a>
-  <a href="https://lunarportfolio.com" target="_blank"><img src="https://img.shields.io/badge/🌙_lunarportfolio-1a1b27?style=for-the-badge" height="28"></a>
   <a href="https://snazzie.space" target="_blank"><img src="https://img.shields.io/badge/✨_snazzie.space-1a1b27?style=for-the-badge" height="28"></a>
   <a href="https://www.linkedin.com/in/cooper-a-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
 </p>
