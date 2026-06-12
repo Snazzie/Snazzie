@@ -1,8 +1,8 @@
 ![I am Snazzie](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="center">
-  <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&center=true&vCenter=true&width=480&height=60&lines=Hey%2C+I'm+Snazzie+%F0%9F%91%8B;Hey%2C+I'm+Aaron+%F0%9F%91%8B" alt="Hey, I'm Snazzie / Aaron" /></a>
-</p>
+<h1 align="center">
+  Hey, I'm <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&vCenter=true&width=160&height=40&lines=Snazzie;Aaron" alt="Snazzie / Aaron" /></a> 👋
+</h1>
 
 <p align="center">
   <a href="https://github.com/Snazzie"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=480&lines=Software+engineer+%26+startup+builder;Building+cloudcat.dev+%F0%9F%90%B1;Building+lunarportfolio+%F0%9F%8C%99;Data+aggregation+%2B+visualisation%2C+always" alt="Typing intro" /></a>

@@ -20,7 +20,7 @@ jobs:
           | jq -r '
               .[]
               | if .type == "PushEvent" then
-                  "- 🔨 Pushed \(.payload.size) commit(s) to [\(.repo.name)](https://github.com/\(.repo.name))"
+                  "- 🔨 Pushed \(.payload.size // .payload.distinct_size // 1) commit(s) to [\(.repo.name)](https://github.com/\(.repo.name))"
                 elif .type == "CreateEvent" and .payload.ref_type == "repository" then
                   "- 🎉 Created new repository [\(.repo.name)](https://github.com/\(.repo.name))"
                 elif .type == "WatchEvent" then
