@@ -41,8 +41,7 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
-- 🔨 Pushed 1 commit(s) to [Snazzie/Snazzie](https://github.com/Snazzie/Snazzie)
-- ⭐ Starred [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag)
+- 🔨 Pushed 1 commit(s) to [SnazziesLab/artifactservecli](https://github.com/SnazziesLab/artifactservecli)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
