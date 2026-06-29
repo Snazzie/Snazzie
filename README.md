@@ -40,11 +40,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
+- 💪 Opened PR [#12](null) in [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#75](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#74](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 🔨 Pushed 1 commit(s) to [Snazzie/smartdos](https://github.com/Snazzie/smartdos)
-- 💪 Opened PR [#6](null) in [Snazzie/smartdos](https://github.com/Snazzie/smartdos)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
