@@ -40,11 +40,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
+- 🔨 Pushed 1 commit(s) to [Snazzie/smartdos](https://github.com/Snazzie/smartdos)
+- ❗ Opened issue [#80](https://github.com/SpeedHQ/RaceIQ/issues/80) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - ⭐ Starred [usestrix/strix](https://github.com/usestrix/strix)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- ❗ Opened issue [#79](https://github.com/SpeedHQ/RaceIQ/issues/79) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- ❗ Opened issue [#78](https://github.com/SpeedHQ/RaceIQ/issues/78) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- ❗ Opened issue [#77](https://github.com/SpeedHQ/RaceIQ/issues/77) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
