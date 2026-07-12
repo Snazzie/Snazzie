@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#81](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
 - ⭐ Starred [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 - 🔨 Pushed 1 commit(s) to [SnazziesLab/expressive-svgs](https://github.com/SnazziesLab/expressive-svgs)
-- ⭐ Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
