@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ❗ Opened issue [#321](https://github.com/rtk-ai/icm/issues/321) in [rtk-ai/icm](https://github.com/rtk-ai/icm)
 - 💪 Opened PR [#81](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
 - ⭐ Starred [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-- 🔨 Pushed 1 commit(s) to [SnazziesLab/expressive-svgs](https://github.com/SnazziesLab/expressive-svgs)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
