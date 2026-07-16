@@ -40,11 +40,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- ❗ Opened issue [#113](https://github.com/SpeedHQ/RaceIQ/issues/113) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#107](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#106](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- ❗ Opened issue [#105](https://github.com/SpeedHQ/RaceIQ/issues/105) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#104](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#112](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#111](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#110](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
