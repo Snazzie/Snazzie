@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ❗ Opened issue [#118](https://github.com/SpeedHQ/RaceIQ/issues/118) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ❗ Opened issue [#117](https://github.com/SpeedHQ/RaceIQ/issues/117) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/SnazzieSpaceReact](https://github.com/Snazzie/SnazzieSpaceReact)
 - ❗ Opened issue [#116](https://github.com/teamchong/pxpipe/issues/116) in [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
-- ❗ Opened issue [#115](https://github.com/teamchong/pxpipe/issues/115) in [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
-- ❗ Opened issue [#366](https://github.com/orangecoding/fredy/issues/366) in [orangecoding/fredy](https://github.com/orangecoding/fredy)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
