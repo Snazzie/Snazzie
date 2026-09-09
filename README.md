@@ -40,11 +40,6 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
-- 🔨 Pushed 1 commit(s) to [Snazzie/smartdos](https://github.com/Snazzie/smartdos)
-- 💪 Opened PR [#371](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 🔨 Pushed 1 commit(s) to [calebklc/RaceIQ](https://github.com/calebklc/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
