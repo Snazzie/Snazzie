@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#372](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - ❗ Opened issue [#9](https://github.com/Snazzie/MARS/issues/9) in [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - ⭐ Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-- 🔨 Pushed 1 commit(s) to [Snazzie/smartdos](https://github.com/Snazzie/smartdos)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
