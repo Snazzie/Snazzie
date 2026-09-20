@@ -40,10 +40,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#395](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#394](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - 💪 Opened PR [#392](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
