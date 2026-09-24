@@ -40,8 +40,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
+- 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [BetterTaskManager/BetterTaskManager](https://github.com/BetterTaskManager/BetterTaskManager)
 - 💪 Opened PR [#400](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
