@@ -42,9 +42,9 @@
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ⭐ Starred [remorses/gpuix](https://github.com/remorses/gpuix)
 - ❗ Opened issue [#13939](https://github.com/paperclipai/paperclip/issues/13939) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 - 💪 Opened PR [#402](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#401](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
