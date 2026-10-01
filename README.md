@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#424](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#423](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 🔨 Pushed 1 commit(s) to [Snazzie/MARS](https://github.com/Snazzie/MARS)
 - 💪 Opened PR [#421](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#420](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#419](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
