@@ -40,11 +40,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 1 commit(s) to [Snazzie/omp-opencode-free-adapter](https://github.com/Snazzie/omp-opencode-free-adapter)
-- 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#493](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#492](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#491](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ⭐ Starred [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+- ⭐ Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+- ⭐ Starred [Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK)
+- ⭐ Starred [remorses/gpuix](https://github.com/remorses/gpuix)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
