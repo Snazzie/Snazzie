@@ -40,8 +40,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-- ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
 - ❗ Opened issue [#514](https://github.com/SpeedHQ/RaceIQ/issues/514) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#509](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 - 💪 Opened PR [#504](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
