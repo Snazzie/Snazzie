@@ -41,10 +41,10 @@
 
 <!--START_SECTION:activity-->
 - 🔨 Pushed 1 commit(s) to [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- ⭐ Starred [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
-- ⭐ Starred [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)
-- 💪 Opened PR [#547](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
-- 💪 Opened PR [#541](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ❗ Opened issue [#552](https://github.com/SpeedHQ/RaceIQ/issues/552) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- ❗ Opened issue [#11](https://github.com/BetterTaskManager/BetterTaskManager/issues/11) in [BetterTaskManager/BetterTaskManager](https://github.com/BetterTaskManager/BetterTaskManager)
+- 💪 Opened PR [#551](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
+- 💪 Opened PR [#550](null) in [SpeedHQ/RaceIQ](https://github.com/SpeedHQ/RaceIQ)
 <!--END_SECTION:activity-->
 
 ### 📊 GitHub Stats
